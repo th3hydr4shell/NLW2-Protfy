@@ -1,7 +1,7 @@
 <img src="./static/Proffy.png" align="center"></img>
 
 <h1 align="center">Next Level Week 02</h1>
-<p align="center">Projeto desenvolvido durante a #NextLevelWeek da <a href="https://rocketseat.com.br/">Rocketseat</a> de 03/08 a 09/08/2020</p>
+<p align="center">Projeto desenvolvido durante a #NextLevelWeek da <a href="https://rocketseat.com.br/">Rocketseat</a> </p>
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.18.3">
@@ -29,7 +29,7 @@
 
 ---
 
-- `Aula 01 - 03/08`
+- `Aula 01`
 
   - bate-papo sobre a stack `Node | React | React Native`
   - informações sobre o projeto **Proffy**
@@ -38,7 +38,7 @@
   - desenvolvimento da página **Teachers List**
     <br>
 
-- `Aula 02 - 04/08`
+- `Aula 02`
 
   - bate-papo sobre arquiteturas de projetos
   - desenvolvimento do backend do projeto
@@ -46,7 +46,7 @@
   - configuração das rotas necessárias
     <br>
 
-- `Aula 03 - 05/08`
+- `Aula 03`
 
   - continuação do desenvolvimento do frontend
   - comunicação com o backend do projeto **axios**
@@ -58,9 +58,4 @@
 
 ---
 
-
-#### PROJETO INICIADO | `03/08/2020`
-
-## Licença
-
-[MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
+[Rocketseat](https://rocketseat.com.br/)
